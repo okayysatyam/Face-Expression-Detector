@@ -54,14 +54,10 @@ This project is licensed under the MIT License. Feel free to use or modify it fo
 --- 
 
 ## Acknowledgements
-- FER2013 Dataset on Kaggle
-- TensorFlow & Keras documentation
-- OpenCV official documentation
+* [FER2013 Dataset on Kaggle](https://www.kaggle.com/datasets/msambare/fer2013)
+* [TensorFlow/Keras Docs](https://keras.io/)
+* [OpenCV Library](https://opencv.org/)
+* [Matplotlib](https://matplotlib.org/)
+
 
 **Made by [Satyam Kumar Pandey](https://github.com/okayysatyam)**
-
-
-
-
-
-
